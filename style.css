@@ -1,0 +1,12 @@
+
+.carousel-control-prev-icon
+{ background-color:blueviolet;
+}
+
+.carousel-control-next-icon
+{ background-color:blueviolet;
+}
+.rating-star{
+width: 20px; background-color: ;
+}
+.advertise {display: flex; justify-content: space-between;}
